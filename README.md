@@ -1,2 +1,2 @@
 # Github-Blog
-github博客
+用于更新github博客
